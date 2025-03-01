@@ -1,0 +1,27 @@
+Linux is an open-source oprating system like Windows and mac which is popular choice for web servers, cloud infrastructure, and database management systems.
+
+why it is a popular choice:
+Free and Open: You don’t have to pay for it, and anyone can improve it.
+Safe and Secure: It gets fewer viruses than other systems.
+Fast and Easy to understand: It can run well even on old or slow computers.
+Customizable: You can change how it looks and works to fit your style.
+Used Everywhere: It runs on many devices, including computers, phones, and supercomputers.
+
+There are many versions of Linux, called "distributions" or "distros".
+Some popular ones are:
+Ubuntu: Easy to use, great for beginners.
+Debian: Stable and reliable.
+Fedora: uses the latest software and technologies.
+Arch Linux: Lets you build your system exactly how you want.
+Kali Linux: Used for testing security and hacking research.
+
+Here are some simple Linux commands:
+ls — Show files and folders.
+cd — Move to a different folder.
+pwd — Show your current folder.
+cp — Copy files.
+mkdir — Make a new folder.
+rm — Delete files or folders (permanently).
+mv — Move or rename files.
+chmod — Change file permissions.
+exit — Close the terminal
