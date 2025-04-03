@@ -1,0 +1,14 @@
+Key Components of an Automation System:
+Reference Input (r): The system's desired setpoint or target value.
+
+Error Summation: Computes the error (e = r-y) by comparing the reference input with the actual output.
+
+Controller: Processes the error signal and calculates the corrective action needed.
+
+System: Executes the control action to produce the output (y).
+
+Disturbance Input: External, uncontrollable factors that can affect system performance.
+
+Measurement: Monitors the output and feeds it back for comparison.
+
+Feedback Loop: Continuously adjusts the system to maintain stability and accuracy by comparing output with input.
