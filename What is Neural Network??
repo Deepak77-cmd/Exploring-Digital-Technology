@@ -1,0 +1,27 @@
+Neural Networks – a fundamental idea in machine learning that mimics how our brains work, but in a simplified way.
+-Neural networks is a huge network of artificial neurons that pass signals to each other. These signals get stronger or weaker based on something called weights (importance scores for connections).
+-they are used in wide range of applications such as: image recognition, Language tranlation, Game Playing, Speech processing.
+
+-Why They're Useful:
+#Learn directly from raw data
+
+#Detect complex patterns in data.
+
+#Get better with experience and improve their performance (training)
+
+# hadle large datasets.
+
+-How They’re Built:
+A typical neural network has three main parts:
+
+Input Layer – receives the raw data (like an image or sentence) 
+
+Hidden Layers – process the data using mathematical function
+
+Output Layer – gives the final answer 
+
+Each neuron passes information to the next, and the network learns by adjusting how strong these connections are.
+
+🗒️ Personal Reflection
+At first, neural networks felt very difficult, But understanding their structure made it feel more mechanical and logical.
+I’m especially interested in how they adapt over time and improve, just like human learning.
