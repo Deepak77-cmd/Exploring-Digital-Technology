@@ -1,7 +1,7 @@
 The five main functional units in a computer are as follows:
 Input unit: gives info to the computer to process. (eg. keyboard). 
 Output unit: the processed data or result given. (eg. monitor).
-Memory unit: store data. (eg. RAM & ROM).
+Memory unit: stores data. (eg. RAM & ROM).
      >>>RAM(Random Access Memory): store data temporarily
      >>>ROM(Read Only Memory): store data permanently.
 Arithmetic Logic Unit: Calculations and Logical operations.
