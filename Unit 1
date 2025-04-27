@@ -7,4 +7,4 @@ Memory unit: stores data. (eg. RAM & ROM).
 Arithmetic Logic Unit: Calculations and Logical operations.
 Control Unit: manage all operations in the computer.
 
-ALU and CU are combined as the processor that works with the memory unit and I/O unit to process, manage, and give result.
+ALU and CU are combined as the processor that works with the memory unit and I/O unit to process, manage, and give output.
