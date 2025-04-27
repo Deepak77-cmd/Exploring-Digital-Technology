@@ -1,5 +1,6 @@
-Binary numbers are essential to communicate with computer, as computers rely on these digits to function and offer a simple and easy way for computer to work.
-Let’s break down the process of converting a positive decimal number to binary.
+Binary numbers are essential to communicate with computer, as machines rely on these digits to function and offer a simple and easy way for computer to work.
+
+Let’s break down the process of converting a positive decimal number to binary:
 
 Decimal Number to Binary:
 i)   Divide the number by 2.
