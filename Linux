@@ -1,4 +1,12 @@
-Linux is an open-source operating system like Windows and mac, which is a popular choice for web servers, cloud infrastructure, and database management systems.
+Linux is an open-source operating system like Windows and mac, which is a popular choice for web servers, cloud infrastructure, 
+and database management systems.
+
+What is Linux?
+- A kernel (core OS component) created by Linus Torvalds (1991).
+
+- Combined with GNU tools (from Richard Stallman’s project) to form a complete OS.
+
+- Open-source – Anyone can modify and distribute it.
 
 Why is it a popular choice?
 Free and Open: You don’t have to pay for it, and anyone can improve it.
